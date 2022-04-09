@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/design-partten/pom.xml" />
+        <option value="$PROJECT_DIR$/reflect-generic-container/pom.xml" />
       </list>
     </option>
   </component>
