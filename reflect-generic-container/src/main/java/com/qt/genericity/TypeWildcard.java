@@ -11,8 +11,8 @@ public class TypeWildcard {
 
     private final static List<Integer> INTEGER_LIST = Lists.newArrayList(1, 2, 3, 4);
 
-    //尽量不要用社区版，IDEA社区版识别不了，会报错
-    private final static List<Object> OBJECT_LIST = Lists.newArrayList("a", 1, 'c', 6.0F, 100L, true);
+//    private final static List<Object> OBJECT_LIST = Lists.newArrayList("a",1,'c',6.0F,true);
+    private final static List<Object> OBJECT_LIST = Lists.newArrayList();
 
     private final static List<String> STRING_LIST = Lists.newArrayList("x", "y", "z");
 

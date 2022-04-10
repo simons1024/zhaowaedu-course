@@ -1,6 +1,12 @@
 package com.qt.genericity;
 
 import com.google.common.collect.Lists;
+import com.qt.genericity.entity.Animal;
+import com.qt.genericity.entity.Dog;
+import com.qt.genericity.entity.WhiteCuteDog;
+import com.qt.genericity.entity.WhiteDog;
+
+import java.util.List;
 
 
 /**
